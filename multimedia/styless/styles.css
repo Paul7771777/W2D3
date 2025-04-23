@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+
+}
+
+.header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.content {
+    width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+.rapper h2 {
+    color: #333;
+}
+
+.rapper p {
+    font-size: 16px;
+    color: #666;
+}
+
+
+
+video {
+    width: 100%;
+    ;
+}
+
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
