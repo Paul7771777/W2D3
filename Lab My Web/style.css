@@ -42,19 +42,20 @@ p{
 }
 
 
-.foto{
-    width: 300px;
-    height: 200px;
-    flex-direction:column;
-
-}
-
 .hobbies{
-  
+
+    display: flex;
+    justify-content: space-between;
+
+}
+ 
+.hobbies .foto{
+    height: 250px;
 }
 
 
-/* .container{
-    width: 100px;
-    height: 200px;
-} */
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+} 
